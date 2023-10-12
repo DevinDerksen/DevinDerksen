@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevinDerksen
-- 👀 I’m interested in Basketball/ Coding
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning HTML/ CSS/ JS
 <!---
 DevinDerksen/DevinDerksen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
